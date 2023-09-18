@@ -1,0 +1,26 @@
+{
+  "name": "devadil-personal",
+  "version": "1.1.1",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devadill/me.git"
+  },
+  "author": "Devadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devadill/me/issues"
+  },
+  "homepage": "https://github.com/Devadill/me#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
